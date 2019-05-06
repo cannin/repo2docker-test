@@ -26,16 +26,3 @@ Step 59/62 : RUN ./postBuild
 https://mybinder.org/v2/gh/cannin/repo2docker-test/master?urlpath=rstudio
 
 Successfully pushed gcr.io/binder-prod/r2d-f18835fd-cannin-2drepo2docker-2dtest-10ad1c:eb72aca38962353c5c285e99645ce7433b0b8829Built image, launching...
-
-NRNB Outreach Jupyter Notebook Related
-
-I spent some time today away from the writing and got this working:
-
-https://mybinder.org/v2/gh/cannin/repo2docker-test/master?urlpath=rstudio
-
-This is a very flexible idea for temporary environments for many languages (i.e., R, Python, Julia) that can either be Jupyter notebooks or even better for R can be RStudio. Even better than this it seems to a very configurable environment unlike Microsoft Azure or Google Colaboratory. The notebook above has rJava installed testable with: source("main.R")
-
-
-https://mybinder.org/v2/gh/cannin/network-analysis-tutorials/master?urlpath=rstudio
-
-I hope you had a good trip.

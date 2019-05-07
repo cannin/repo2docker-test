@@ -1,3 +1,3 @@
 #!/bin/bash
 
-R CMD javareconf -e
+#R CMD javareconf -e
